@@ -1,0 +1,6 @@
+{
+  "name": "Vetro",
+  "description": "An iOS-inspired Liquid Glass custom Android keyboard with Gboard ergonomics, floating translucent pill layout, full Unicode emoji keyboard, and voice typing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

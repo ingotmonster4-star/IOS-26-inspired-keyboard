@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vetro</string>
+    <string name="ime_service_name">Vetro Liquid Glass Keyboard</string>
+    <string name="ime_subtype_en_us">English (US)</string>
+</resources>
